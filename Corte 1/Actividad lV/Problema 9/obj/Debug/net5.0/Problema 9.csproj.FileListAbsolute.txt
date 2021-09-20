@@ -1,0 +1,16 @@
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\bin\Debug\net5.0\Problema 9.exe
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\bin\Debug\net5.0\Problema 9.deps.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\bin\Debug\net5.0\Problema 9.runtimeconfig.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\bin\Debug\net5.0\Problema 9.runtimeconfig.dev.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\bin\Debug\net5.0\Problema 9.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\bin\Debug\net5.0\ref\Problema 9.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\bin\Debug\net5.0\Problema 9.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\Problema 9.csproj.AssemblyReference.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\Problema 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\Problema 9.AssemblyInfoInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\Problema 9.AssemblyInfo.cs
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\Problema 9.csproj.CoreCompileInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\Problema 9.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\ref\Problema 9.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\Problema 9.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 9\obj\Debug\net5.0\Problema 9.genruntimeconfig.cache

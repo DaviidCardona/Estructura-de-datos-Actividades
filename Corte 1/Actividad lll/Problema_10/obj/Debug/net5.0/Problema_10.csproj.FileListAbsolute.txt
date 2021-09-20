@@ -1,0 +1,16 @@
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\bin\Debug\net5.0\Problema_10.exe
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\bin\Debug\net5.0\Problema_10.deps.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\bin\Debug\net5.0\Problema_10.runtimeconfig.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\bin\Debug\net5.0\Problema_10.runtimeconfig.dev.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\bin\Debug\net5.0\Problema_10.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\bin\Debug\net5.0\ref\Problema_10.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\bin\Debug\net5.0\Problema_10.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\Problema_10.csproj.AssemblyReference.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\Problema_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\Problema_10.AssemblyInfoInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\Problema_10.AssemblyInfo.cs
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\Problema_10.csproj.CoreCompileInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\Problema_10.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\ref\Problema_10.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\Problema_10.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad lll\Problema_10\obj\Debug\net5.0\Problema_10.genruntimeconfig.cache

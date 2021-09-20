@@ -1,0 +1,16 @@
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\Problema 11.csproj.AssemblyReference.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\Problema 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\Problema 11.AssemblyInfoInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\Problema 11.AssemblyInfo.cs
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\Problema 11.csproj.CoreCompileInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\bin\Debug\net5.0\Problema 11.exe
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\bin\Debug\net5.0\Problema 11.deps.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\bin\Debug\net5.0\Problema 11.runtimeconfig.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\bin\Debug\net5.0\Problema 11.runtimeconfig.dev.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\bin\Debug\net5.0\Problema 11.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\bin\Debug\net5.0\ref\Problema 11.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\bin\Debug\net5.0\Problema 11.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\Problema 11.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\ref\Problema 11.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\Problema 11.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Actividad ll\Problema 11\obj\Debug\net5.0\Problema 11.genruntimeconfig.cache

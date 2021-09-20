@@ -1,0 +1,16 @@
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\bin\Debug\net5.0\Problema 8.exe
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\bin\Debug\net5.0\Problema 8.deps.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\bin\Debug\net5.0\Problema 8.runtimeconfig.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\bin\Debug\net5.0\Problema 8.runtimeconfig.dev.json
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\bin\Debug\net5.0\Problema 8.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\bin\Debug\net5.0\ref\Problema 8.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\bin\Debug\net5.0\Problema 8.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\Problema 8.csproj.AssemblyReference.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\Problema 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\Problema 8.AssemblyInfoInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\Problema 8.AssemblyInfo.cs
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\Problema 8.csproj.CoreCompileInputs.cache
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\Problema 8.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\ref\Problema 8.dll
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\Problema 8.pdb
+D:\Documentos\universidad\Semestre 2\Estructura de datos\Estructura de datos Actividades\Corte 1\Actividad lV\Problema 8\obj\Debug\net5.0\Problema 8.genruntimeconfig.cache
